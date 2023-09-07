@@ -71,6 +71,7 @@ int main()
 	obj1.Input();
 	obj1.Print();
 
+
 }
 
 /* добавить:
